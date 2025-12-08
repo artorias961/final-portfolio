@@ -79,7 +79,7 @@
                 </div>
               </div>
               <p class="text-[#FF0040] text-[14px] mb-4">
-                Svelte, React, Vue.js, HTML/CSS, Three.js
+                HTML/CSS, Three.js
               </p>
               <div class="flex flex-col">
                 <span class="text-[#818181] text-[11px] mb-1">&lt;h3&gt;</span>
@@ -110,23 +110,23 @@
               <div class="flex items-start mb-3">
                 <i class="fas fa-mobile-alt text-3xl mr-4" style="color: #ff7700"></i>
                 <div class="relative">
-                  <h2 class="text-[#030303] text-[25px] font-semibold">Mobile &</h2>
+                  <h2 class="text-[#030303] text-[25px] font-semibold">Hardware</h2>
                   <div
                     class="h-[10px] w-24 absolute underline-highlight"
                     style="background-color: #ff7700; top: 25px; z-index: -1"
                   ></div>
-                  <h2 class="text-[#030303] text-[25px] font-semibold mb-2">Flutter Dev</h2>
+                  <h2 class="text-[#030303] text-[25px] font-semibold mb-2">and Testing</h2>
                 </div>
               </div>
-              <p class="text-[#FF0040] text-[14px] mb-4">Flutter, Dart, Swift</p>
+              <p class="text-[#FF0040] text-[14px] mb-4">Digital Multimeter, Oscilloscope, Wave Generator, Power Supply </p>
               <div class="flex flex-col">
                 <span class="text-[#818181] text-[11px] mb-1">&lt;h3&gt;</span>
                 <div class="flex">
                   <div class="w-[1px] bg-[#818181] ml-3 mr-4"></div>
                   <div class="tech-content py-3">
                     <p class="text-[#818181] text-[11px]">
-                      I've been experimenting with cross-platform mobile development— turning
-                      sketches into working apps has been a favorite kind of challenge.
+                      I’ve been leading hands-on debugging efforts across multiple test benches turning ambiguous system behavior 
+                      into repeatable, verifiable results has become a favorite kind of challenge.
                     </p>
                   </div>
                 </div>
@@ -160,7 +160,7 @@
                 </div>
               </div>
               <p class="text-[#FF0040] text-[14px] mb-4">
-                Node.js, Express.js, MongoDB, MySQL, Docker, GitHub Actions
+                Node.js, Bun, MySQL, Docker, GitHub
               </p>
               <div class="flex flex-col">
                 <span class="text-[#818181] text-[11px] mb-1">&lt;h3&gt;</span>
@@ -200,7 +200,7 @@
                 </div>
               </div>
               <p class="text-[#FF0040] text-[14px] mb-4">
-                TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
+                PyTorch, scikit-learn, NumPy, Pandas
               </p>
               <div class="flex flex-col">
                 <span class="text-[#818181] text-[11px] mb-1">&lt;h3&gt;</span>
@@ -231,23 +231,24 @@
               <div class="flex items-start mb-3">
                 <i class="fas fa-vial text-3xl mr-4" style="color: #dec488"></i>
                 <div class="relative">
-                  <h2 class="text-[#030303] text-[25px] font-semibold">Testing &</h2>
+                  <h2 class="text-[#030303] text-[25px] font-semibold">Embedded</h2>
                   <div
                     class="h-[10px] w-24 absolute underline-highlight"
                     style="background-color: #dec488; top: 25px; z-index: -1"
                   ></div>
-                  <h2 class="text-[#030303] text-[25px] font-semibold mb-2">Automation</h2>
+                  <h2 class="text-[#030303] text-[25px] font-semibold mb-2">System</h2>
                 </div>
               </div>
-              <p class="text-[#FF0040] text-[14px] mb-4">Selenium, Appium, JUnit, TestNG</p>
+              <p class="text-[#FF0040] text-[14px] mb-4">VHDL, ZephyrRTOS, UART, I2C, Bluetooth Low Energy</p>
               <div class="flex flex-col">
                 <span class="text-[#818181] text-[11px] mb-1">&lt;h3&gt;</span>
                 <div class="flex">
                   <div class="w-[1px] bg-[#818181] ml-3 mr-4"></div>
                   <div class="tech-content py-3">
                     <p class="text-[#818181] text-[11px]">
-                      I’ve seen how good testing saves time and sanity. I’m learning to write
-                      smarter tests and build small automations that keep projects on track.
+                      I’ve seen how clear embedded design prevents hours of debugging. At Northrop Grumman, 
+                      I’ve been working with UART, I2C, and low-level testing to make systems stable and 
+                      developing small tools that keep firmware development on track.
                     </p>
                   </div>
                 </div>

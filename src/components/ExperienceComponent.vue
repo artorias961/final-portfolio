@@ -312,20 +312,21 @@
               ></div>
             </div>
 
-            <!-- Experience 11 -->
-            <div class="mb-10 experience-item" ref="expItem6">
-              <div class="flex justify-between items-start mb-4">
-                <h3 class="text-xl font-semibold text-[#030303]">Web Developer at Flipbill</h3>
-                <span class="text-sm text-[#030303] font-light">Mar 2021 - Apr 2022</span>
-              </div>
+            <!-- Experience 11 --> 
+             <div class="mb-10 experience-item" ref="expItem6">
+            <!--  <div class="flex justify-between items-start mb-4"> -->
+            <!--    <h3 class="text-xl font-semibold text-[#030303]">Web Developer at Flipbill</h3> -->
+            <!--    <span class="text-sm text-[#030303] font-light">Mar 2021 - Apr 2022</span> -->
+            <!--  </div> -->
 
-              <p class="text-[#030303] mb-6">
-                Designed and developed the company website in 2 weeks.
-              </p>
+            <!--  <p class="text-[#030303] mb-6"> -->
+            <!--    Designed and developed the company website in 2 weeks. -->
+            <!--  </p> -->
 
-              <div
-                class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6"
-              ></div>
+            <!--  <div -->
+            <!--    class="h-[2px] bg-gradient-to-r from-transparent via-[#FF0000] to-transparent w-full mt-6" -->
+            <!--  ></div> -->
+              
             </div>
           </div>
         </div>

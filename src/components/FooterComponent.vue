@@ -39,7 +39,7 @@ const navigation = [
   },
   {
     name: 'LinkedIn',
-    href: 'www.linkedin.com/in/artorias961',
+    href: 'https://www.linkedin.com/in/artorias961',
     icon: defineComponent({
       render: () =>
         h('svg', { fill: 'currentColor', viewBox: '0 0 24 24' }, [

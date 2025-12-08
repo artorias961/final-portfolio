@@ -12,7 +12,7 @@ const sideQuests = [
   },
   {
     year: 2,
-    activity: "",
+    activity: "I joined a biomedical engineering team focused on developing assistive technology for individuals with disabilities, using computer vision and a simple robotic arm to help with showering tasks such as scrubbing and dispensing shampoo",
   },
   {
     year: 1,
