@@ -54,7 +54,7 @@
           <!-- Right top box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
             <img
-              src="/online-storage.png"
+              src="/Websocket-REST-API-using-Python.png"
               class="w-full h-full object-cover"
               alt="Online Storage Project"
             />
@@ -64,14 +64,13 @@
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Online Storage System</h3>
+                <h3 class="text-xl font-bold mb-2">Websocket REST API using Python</h3>
                 <p class="mb-4">
-                  An online storage system that enables users to securely store, access, and share
-                  files while protecting data confidentiality and integrity.
+                  My Websocket project! The code you can explore here combines real-time WebSocket communication with classic REST API patterns in Python 🐍
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="An online storage system that enables users to securely store, access, and share files while protecting data confidentiality and integrity."
+                    href="https://github.com/artorias961/Websocket-REST-API-using-Python"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
@@ -94,7 +93,7 @@
                 My DQN Snake agent! A Neural Networks course final where I trained a model to play Snake using Python                </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/prequel"
+                    href="https://github.com/artorias961/deep-learning-neural-network-SnakeIO-Game"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
@@ -133,7 +132,7 @@
           <!-- Left bottom box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
             <img
-              src="/music-from-image.png"
+              src="/opencv_retro_filter.png"
               class="w-full h-full object-cover"
               alt="Music From Image Project"
             />
@@ -143,11 +142,11 @@
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Music From Image</h3>
-                <p class="mb-4">AI tool that generates music based on image emotions</p>
+                <h3 class="text-xl font-bold mb-2">OpenCV Retro Filter</h3>
+                <p class="mb-4">A C++ and Python computer vision project that recreates a Game Boy Advance–style visual aesthetic from modern images.</p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/music-generation-from-image"
+                    href="https://github.com/artorias961/OpenCV-Retro-Filter"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
