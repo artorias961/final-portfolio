@@ -17,35 +17,33 @@
 
       <!-- Bento Grid Layout -->
       <div class="relative px-4 md:px-14">
+
+
+
         <!-- First Row -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
           <!-- Left box - double height -->
           <div
             class="col-span-1 md:col-span-2 md:row-span-2 relative rounded-md overflow-hidden group"
           >
-            <img src="/decodr.png" class="w-full h-full object-cover" alt="Decodr Project" />
+            <img src="/mips32.png" class="w-full h-full object-cover" alt="Multi Cycle MIPS32" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-2xl font-bold mb-2">Decodr</h3>
+                <h3 class="text-2xl font-bold mb-2">Multi Cycle MIPS32</h3>
                 <p class="mb-4">
-                  A project that walks users through the step-by-step process behind how large
-                  language models (LLMs) generate text.
+                  This repository implements a complete multi-cycle MIPS32 processor in Verilog, designed for FPGA synthesis with Intel Quartus and verified through simulation as an educational computer architecture project
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/decodr"
+                    href="https://github.com/artorias961/Multi-Cycle-MIPS32"
                     class="px-4 py-2 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors"
                     >GitHub</a
                   >
-                  <a
-                    href="https://decodr-llm.netlify.app/"
-                    class="px-4 py-2 bg-gray-600 rounded-md hover:bg-gray-700 transition-colors"
-                    >Check it out!</a
-                  >
+                  
                 </div>
               </div>
             </div>
@@ -56,7 +54,7 @@
             <img
               src="/Websocket-REST-API-using-Python.png"
               class="w-full h-full object-cover"
-              alt="Online Storage Project"
+              alt="Websocket REST API using Python"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
@@ -81,7 +79,7 @@
 
           <!-- Right bottom box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/dqn_snake_model.png" class="w-full h-full object-cover" alt="Prequel Project" />
+            <img src="/dqn_snake_model.png" class="w-full h-full object-cover" alt="Deep Neural Network SnakeIO Game" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
@@ -103,11 +101,16 @@
           </div>
         </div>
 
+
+
+
+
+
         <!-- Second Row -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
           <!-- Left top box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/sobel_1.png" class="w-full h-full object-cover" alt="Powehi Project" />
+            <img src="/sobel_1.png" class="w-full h-full object-cover" alt="Sobel Project" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
@@ -134,7 +137,7 @@
             <img
               src="/opencv_retro_filter.png"
               class="w-full h-full object-cover"
-              alt="Music From Image Project"
+              alt="OpenCV Retro Filter"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
@@ -162,7 +165,7 @@
             <img
               src="/3D_Medical_Reconstruction_project.png"
               class="w-full h-full object-cover"
-              alt="Multiserver Project"
+              alt="3D Geometry Recontruction"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
@@ -187,13 +190,101 @@
           </div>
         </div>
 
+
+
+
+
+
         <!-- Third Row -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+          <!-- Project One -->
+          <div class="col-span-1 relative rounded-md overflow-hidden group">
+            <img src="/network-visualizer.png" class="w-full h-full object-cover" alt="Network Visualizer" />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
+            >
+              <div class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6">
+                <h3 class="text-xl font-bold mb-2">Network Visualizer</h3>
+                <p class="mb-4">
+                  Network Visualizer is a system that passively captures local network traffic using Scapy, exposes processed connection data through a FastAPI backend, and presents device-to-device interactions.
+                </p>
+                <div class="flex space-x-3">
+                  <a
+                    href="https://github.com/artorias961/Network-Visualizer"
+                    class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
+                    >GitHub</a
+                  >
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Project Two -->
+          <div class="col-span-1 relative rounded-md overflow-hidden group">
+            <img src="/smart_program_VR_AR_XR_tech.png" class="w-full h-full object-cover" alt="VR/AR/XR for Learning Space" />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
+            >
+              <div class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6">
+                <h3 class="text-xl font-bold mb-2">VR/AR/XR for Learning Space</h3>
+                <p class="mb-4">
+                  A Unity-based VR/AR/XR virtual learning space developed during Summer 2024 that explores immersive education through interactive environments.
+                </p>
+                <div class="flex space-x-3">
+                  <a
+                    href="https://github.com/artorias961/Smart-Program-VR-AR-XR-Tech-for-Virtual-Learning-Space-Summer-2024"
+                    class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
+                    >GitHub</a
+                  >
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Project Three -->
+          <div class="col-span-1 relative rounded-md overflow-hidden group">
+            <img src="/Heated_Sonicator.png" class="w-full h-full object-cover" alt="Heated-Sonicator" />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
+            >
+              <div class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6">
+                <h3 class="text-xl font-bold mb-2">Heated-Sonicator </h3>
+                <p class="mb-4">
+                  This repository documents the retrofit of a heated ultrasonic sonicator by replacing its failed controller CCA with an ESP32-based control system.
+                </p>
+                <div class="flex space-x-3">
+                  <a
+                    href="https://github.com/artorias961/Heated-Sonicator"
+                    class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
+                    >GitHub</a
+                  >
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+        
+
+
+
+
+
+        
+
+          <!-- Fourth Row -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
 
 
           <!-- Portfolio One -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/portfolio_one.png" class="w-full h-full object-cover" alt="CodeRoad Project" />
+            <img src="/portfolio_one.png" class="w-full h-full object-cover" alt="First Portfolio" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
@@ -228,7 +319,7 @@
             <img
               src="/portfolio_two.png"
               class="w-full h-full object-cover"
-              alt="Portfolio"
+              alt="Second Portfolio"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
@@ -259,7 +350,7 @@
 
           <!-- Portfolio Finale -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/portfolio_finale.png" class="w-full h-full object-cover" alt="Decodr Project" />
+            <img src="/portfolio_finale.png" class="w-full h-full object-cover" alt="Third Portfolio" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
@@ -284,8 +375,34 @@
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
+
+        <!-- END OF BENTO BOX-->
       </div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
     <!-- Second wave image at bottom of section -->
     <div class="wave-bottom">
       <img
