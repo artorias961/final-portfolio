@@ -361,7 +361,7 @@
                 <p class="mb-4">My portfolio website! The page you are currently on :)</p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/jyotsna-venkatesan"
+                    href="https://github.com/artorias961/main-portfolio"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
