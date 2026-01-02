@@ -361,12 +361,12 @@
                 <p class="mb-4">My portfolio website! The page you are currently on :)</p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/artorias961/main-portfolio"
+                    href="https://github.com/artorias961/final-portfolio.git"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
                   <a
-                    href="https://main--jyotsnav.netlify.app/"
+                    href="https://artorias961.netlify.app"
                     class="px-3 py-1 bg-gray-600 rounded-md hover:bg-gray-700 transition-colors text-sm"
                     >Website</a
                   >
